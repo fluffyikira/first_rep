@@ -1,0 +1,25 @@
+body {
+  background-color: #F0D9E7;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 10%;
+}
+
+img {
+  height: 80px;
+}
+
+h2 {
+  color: blue;
+  text-decoration: underline;
+}
+
+.heading {
+  font-size: 30px;
+  color: brown;
+}
